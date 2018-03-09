@@ -1,1 +1,1 @@
-print("hello Github")
+def soloution(a):
